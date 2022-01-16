@@ -1,8 +1,8 @@
 const siteMetadata = {
-  title: 'Hoşgeldiniz',
-  author: 'Orhan Cansu',
+  title: 'Merhabalar',
+  author: 'Cengizhan Yıldız',
   headerTitle: 'Zaman bir illüzyon...',
-  description: 'Yazacağım teknik bloglar Feynman`ın gösterdiği yolu izleyecekler.',
+  description: 'Acıyı Bilmeyen Gerçek Barışı Anlayamaz.',
   language: 'tr-tr',
   theme: 'system', // system, dark or light
   siteUrl: 'https://orhancansu.vercel.app/',
