@@ -1,7 +1,7 @@
 ---
-name: Orhan Cansu
+name: Cengizgan Yildiz
 avatar: /static/images/avatar.png
-occupation: Berber, Web Geliştiricisi, Freelancer 
+occupation: Android progemmer
 company: Ege Üniversitesi, Anadolu Üniversitesi
 email: orhancansu98@gmail.com
 twitter: https://twitter.com/orhancansu15
