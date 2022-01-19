@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: 'Merhabalar',
-  author: 'Cengizhan Yıldız',
-  headerTitle: 'Adam barış istiyor, ama ayni zamanda savaşi özlüyor. Bunlar sadece insana ait olan iki kralliktir.',
+  author: 'Cengizhan Yildiz',
+  headerTitle: 'Adam baris istiyor, ama ayni zamanda savasi özlüyor. Bunlar sadece insana ait olan iki kralliktir.',
   description: 'Acıyı Bilmeyen Gerçek Barışı Anlayamaz.',
   language: 'tr-tr',
   theme: 'system', // system, dark or light
