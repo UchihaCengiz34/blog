@@ -1,25 +1,19 @@
 const siteMetadata = {
   title: 'Merhabalar',
   author: 'Cengizhan Yıldız',
-  headerTitle: 'Zaman bir illüzyon...',
+  headerTitle: 'Adam barış istiyor, ama ayni zamanda savaşi özlüyor. Bunlar sadece insana ait olan iki kralliktir.',
   description: 'Acıyı Bilmeyen Gerçek Barışı Anlayamaz.',
   language: 'tr-tr',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://orhancansu.vercel.app/',
+  siteUrl: 'https://NarutonunYikikEvi.vercel.app/',
   siteRepo: 'https://github.com/konerjonlar/blog-nextjs-tailwind',
-  siteLogo: '/static/images/logo.png',
-  image: '/static/images/avatar.png',
-  socialBanner: '/static/images/twitter-card.png',
-  email: 'orhancansu98@gmail.com',
-  github: 'https://github.com/konerjonlar',
-  twitter: 'https://twitter.com/orhancansu15',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com/in/orhan-cansu',
+  siteLogo: '/static/images/EZwNjbzVAAA3EHo.jpg',
+  image: '/static/images/EZwNjbzVAAA3EHo.jpg',
+  socialBanner: '/static/images/EZwNjbzVAAA3EHo.jpg',
   locale: 'tr-TR',
   analytics: {
     // supports plausible, simpleAnalytics or googleAnalytics
-    plausibleDataDomain: 'https://orhancansu.vercel.app', // e.g. tailwind-nextjs-starter-blog.vercel.app
+    plausibleDataDomain: 'https://NarutonunYikikEvi.vercel.app', // e.g. tailwind-nextjs-starter-blog.vercel.app
     simpleAnalytics: true, // true or false
     googleAnalyticsId: 'G-XKEYWQSSF6', // e.g. UA-000000-2 or G-XXXXXXX
   },
