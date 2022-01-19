@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Merhabalar',
   author: 'Cengizhan Yildiz',
   headerTitle: 'Adam baris istiyor, ama ayni zamanda savasi özlüyor. Bunlar sadece insana ait olan iki kralliktir.',
-  description: 'Acıyı Bilmeyen Gerçek Barışı Anlayamaz.',
+  description: 'Aciyi Bilmeyen Gercek Barisi Anlayamaz.',
   language: 'tr-tr',
   theme: 'system', // system, dark or light
   siteUrl: 'https://NarutonunYikikEvi.vercel.app/',
