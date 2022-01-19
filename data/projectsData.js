@@ -1,7 +1,7 @@
 const projectsData = [
   {
-    title: 'Bu sitenin projesi :)',
-    description: `next.js kullanılmış https://github.com/timlrx/tailwind-nextjs-starter-blog projesini kullandım. Süreçte site içi güncellemeleri yapıyor olacağım. https://vercel.com/ ile deploy işlemi sağladım. Amacım projenin klonlanarak kullananların hızlıca bloglarını oluşturmaları `,
+    title: 'Naruto Animesinin Konusu',
+    description: `Uzumaki Naruto isimli bir çocugun Uchiha Sasukeyi geri getirmeye çalışmasıyla başlıyor hikayemiz gerisini izleseniz daha iyi:)`,
     imgSrc: '/static/images/logo',
     href: 'https://github.com/konerjonlar/blog-nextjs-tailwind',
   },
